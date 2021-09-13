@@ -1,4 +1,4 @@
 # testrepo
 # 
-This branch use soki.
+This branch is main.
 
